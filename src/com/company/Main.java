@@ -1,16 +1,9 @@
-package com.company;
-
 import java.util.*;
 import java.util.Calendar;
 import java.util.GregorianCalendar;
 
-public class Main
+public class main
 {
-
-    public static void Menu()
-    {
-        System.out.println("1.");
-    }
 
     public static void GetTime()
     {
@@ -22,15 +15,6 @@ public class Main
 
         System.out.println("Hora atual: " +hour+":"+minute+":"+second);
 
-        if(hour >= 2)
-        {
-            System.out.println("Horas comparaveis");
-        }
-
-        if(hour != 2)
-        {
-            System.out.println("Não comparaveis");
-        }
     }
 
     public static void main(String[] args)
