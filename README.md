@@ -1,6 +1,6 @@
 ## Introdução
 
-**Vigilant_Shadow** é um software criado em **C++** com a ideia de **provar** o desaparecimento de uma vida, e em paralelo, informar pessoas sobre o desaparecimento por email. Se o tempo de delay (em horas) configurado não for desativado, significaria possivelmente um desaparecimento, assim enviando emails programados a certos destinos configurados anteriormente.  
+**Vigilant_Shadow** é um software criado em **C++** com a ideia de **provar** o desaparecimento de uma vida, e em paralelo, informar pessoas sobre o desaparecimento por email. Se o tempo de delay (em horas) configurado não for desativado a tempo, significaria possivelmente um desaparecimento do usuario, consequentemente o programa se tornando consciente disso e enviando emails programados a certos destinos configurados anteriormente.  
 
 ## Motivação
 
